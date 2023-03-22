@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.bangkok_fast_call">
    <application
-        android:label="bangkok_fast_call"
+        android:label="สายด่วน สถานีตำรวจในสังกัดกทม."
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity
